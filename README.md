@@ -57,7 +57,7 @@ The Notes App includes the following features:
 
 ## 🔗 Live Demo 
 
-https://kanbanbt.netlify.app/
+https://appnotesss.netlify.app/
 
  ---
 
